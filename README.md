@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">welcome 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"># 👋 Hi, I'm Vinutha<br><br>🎓 I'm a (MCA student passionate about Data Science, Machine Learning, and Web Development.  <br>🔍 I'm actively exploring real-world applications of data analytics, machine learning, and AI through hands-on projects and internships.  <br><br><br>## 💼 What I Do<br><br>- 🧠 **Data Science & Machine Learning:**  <br>  Building models for sentiment analysis, job market trends, and melanoma detection.<br><br>- 📊 **Data Analytics:**  <br>  Creating dashboards and visualizations using tools like **Power BI** and **Streamlit**.<br><br>- 🌐 **Web Development:**  <br>  Developed real-time applications like a **web-based packet sniffer** and prediction tools using **Flask** and **Streamlit**.<br><br><br>## 🚀 Projects<br><br>- 🔍 **Job Market Analysis** – Web-scraped job data to analyze skill trends and salary distribution by location.  <br>- 💬 **Sentiment Analysis** – Used VADER and Logistic Regression to predict sentiment with 0.4 confidence score.  <br>- 🧪 **Melanoma Detection** – Built a CNN-based image classifier with 84% accuracy; deployed with a web interface.  <br>- 📡 **Packet Sniffer** – Real-time network traffic monitor using Python, Flask, and Scapy.</p>
+<p align="left">👋 Hi, I'm Vinutha<br><br>🎓 I'm a (MCA student passionate about Data Science, Machine Learning, and Web Development.  <br>🔍 I'm actively exploring real-world applications of data analytics, machine learning, and AI through hands-on projects and internships.  <br><br><br>💼 What I Do<br><br>🧠Data Science & Machine Learning:<br>  Building models for sentiment analysis, job market trends, and melanoma detection.<br><br>📊 Data Analytics: <br>  Creating dashboards and visualizations using tools like Power BI and Streamlit<br><br>🌐Web Development:<br>  Developed real-time applications like a **web-based packet sniffer** and prediction tools using **Flask** and **Streamlit**.<br><br><br>🚀 Projects<br><br>🔍 Job Market Analysis – Web-scraped job data to analyze skill trends and salary distribution by location.  <br>💬Sentiment Analysis– Used VADER and Logistic Regression to predict sentiment with 0.4 confidence score.  <br>🧪Melanoma Detection – Built a CNN-based image classifier with 84% accuracy; deployed with a web interface.  <br>📡Packet Sniffer– Real-time network traffic monitor using Python, Flask, and Scapy.</p>
 
 ###
 
@@ -56,12 +56,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"></h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinutha-C03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
